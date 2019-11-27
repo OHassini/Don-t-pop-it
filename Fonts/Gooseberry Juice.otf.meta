@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 1524f920711b7f04596f35475b3afb64
+timeCreated: 1517137126
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gooseberry Juice
+  fontNames:
+  - Gooseberry Juice
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0568462a76a1ef04795f9f25d01f1cae
+timeCreated: 1517138202
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: TooneyNoodle
+  fontNames:
+  - TooneyNoodle
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
